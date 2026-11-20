@@ -9,4 +9,4 @@ dependencies:
     sdk: flutter
   cupertino_icons: ^1.0.2
 flutter:
-  uses-material-design: tru￼Enter
+  uses-material-design: true
